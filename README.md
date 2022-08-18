@@ -15,7 +15,8 @@ next build
 next start
 ```
 で起動する。
-next buildの成果物は.nextディレクトリにある。
+build前にstartすると怒られる。  
+next buildの成果物は.nextディレクトリにある。  
 
 curlで叩くとJS実行前の状態がわかる
 
