@@ -1,0 +1,21 @@
+{
+  "name": "react-next-boilerplate",
+  "version": "1.2.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/babel-plugin": "^11.10.0",
+    "express": "^4.17.1",
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.2"
+  }
+}
