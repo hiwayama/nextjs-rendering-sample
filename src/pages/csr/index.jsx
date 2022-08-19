@@ -7,7 +7,7 @@ function CSRContent() {
   const increment = () => {
     setVal(val + 1);
   };
-  const name = 'world';
+  const name = 'csr';
   return (
     <div>
       <div>

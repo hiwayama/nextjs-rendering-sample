@@ -21,7 +21,7 @@ export default function SSG({ id }) {
   const increment = () => {
     setVal(val + 1);
   };
-  const name = 'world';
+  const name = 'ssg';
   return (
     <div>
       <div>

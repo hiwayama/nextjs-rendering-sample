@@ -6,7 +6,7 @@ export default function SSR(props) {
   const increment = () => {
     setVal(val + 1);
   };
-  const name = 'world';
+  const name = 'ssr';
   return (
     <div>
       <div>
